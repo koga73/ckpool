@@ -45,4 +45,7 @@ ltmain.sh
 
 libtool
 
-
+logs
+src/**/*.a
+src/**/*.A
+src/notifier
